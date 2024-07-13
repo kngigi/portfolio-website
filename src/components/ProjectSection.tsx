@@ -44,7 +44,7 @@ const ProjectSection = () => {
       <h2 className="text-4xl font-bold text-white mb-4 text-left md:text-center">
         My Projects
       </h2>
-      <ul className="grid md:grid-cols-3 gap-8 md:gap-12">
+      <ul className="grid md:grid-cols-2 xl:grid-cols-3 gap-8 lg:gap-12">
         {PROJECT_DATA.map((project, index) => (
           <motion.li
             key={project.id}
