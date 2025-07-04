@@ -37,7 +37,7 @@ const HeroSection = () => {
               <Link href={"#contact"}>Hire Me</Link>
             </Button>
             <Button
-              className="px-6 py-3 rounded-full text-white hover:text-slate-800 border lg:text-xl"
+              className="px-6 py-3 rounded-full text-white hover:text-slate-800 border lg:text-xl hidden"
               variant={"ghost"}
             >
               <Link href={"/kennedy_cv.pdf"} target="_blank" download={true}>
