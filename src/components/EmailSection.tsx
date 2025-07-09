@@ -21,7 +21,7 @@ const EmailSection = () => {
     const data = await response.json();
 
     if (data.success) {
-      setResult("Email sent Succesfully");
+      setResult("Email Sent Successfully");
       form.reset();
     } else {
       console.log("Error", data);
