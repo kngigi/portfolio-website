@@ -1,3 +1,45 @@
+# Kennedy Ngigi — Developer Portfolio
+
+This is the personal portfolio of **Kennedy Kanyai Ngigi**, a front-end web developer skilled in React, Next.js, TypeScript, and modern UI/UX design. The portfolio showcases selected projects, technical skills, and background information to highlight his capabilities and experience in web development.
+
+
+## 🔗 Live Website
+
+👉 [kennedy-ngigi.vercel.app](https://kennedy-ngigi.vercel.app)
+
+## 🎯 Purpose
+
+The goal of this portfolio is to:
+- Present a collection of real-world projects
+- Share technical proficiencies and tools used
+- Serve as a point of reference for potential clients, employers, or academic institutions
+- Reflect clean, responsive design and performance-focused coding practices
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js 13 (App Router)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Deployment:** Vercel
+
+## 🧩 Features
+
+- Smooth page transitions and animations
+- Responsive and mobile-first layout
+- Project showcase with live links and descriptions
+- Social and contact links integration
+- SEO and accessibility best practices
+
+## 📁 Project Structure
+
+ /app → App Router pages and layout  
+ /components → Reusable UI components (Hero, About, Projects, Contact)  
+ /public → Static assets (images, icons)  
+ /styles → Global and utility CSS  
+ /data → Project and social link data  
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
