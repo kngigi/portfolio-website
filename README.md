@@ -33,11 +33,11 @@ The goal of this portfolio is to:
 
 ## 📁 Project Structure
 
- /app → App Router pages and layout  
- /components → Reusable UI components (Hero, About, Projects, Contact)  
  /public → Static assets (images, icons)  
- /styles → Global and utility CSS  
- /data → Project and social link data  
+/src  
+    ├── /app → App Router pages and layout  
+    ├── /components → Reusable UI components (Hero, About, Projects, etc.)  
+    └── /lib → Utility functions (e.g., utils.ts)  
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
